@@ -142,11 +142,4 @@ This work demonstrates how **deep learning and semi-supervised learning** can re
 ```bash
 https://github.com/DataWorshipper/12_Semi-Supervised-Weed-Detection.git
 cd weed-detection-yolov9
-```
-## **Authors**
-- [Abhiraj Mandal](https://github.com/DataWorshipper)
-- [Abhi Tanwar](https://github.com/abhitan007)
-- [Arnav Gupta](https://github.com/arnav0103)
-- [Tushay Gupta](https://github.com/Skidzomaniac)
-- [Mit Narodia](https://github.com/MitNarodia)
-- [Vansh Gandharva](https://github.com/vanshg007)
+
